@@ -36,7 +36,7 @@ This React component provides an interactive table with features like:
 
     Make sure these are installed in your project.
 
-4.  **Backend API:** This component fetches data from `http://localhost:3000/data`. Ensure you have a backend running at this URL that serves an array of objects with the following structure (or adapt the component accordingly):
+4.  **Backend API:** This component fetches data from `https://rajatgangwar-assignment-interactive.onrender.com/`. Ensure you have a backend running at this URL that serves an array of objects with the following structure (or adapt the component accordingly):
 
     ```json
     [
