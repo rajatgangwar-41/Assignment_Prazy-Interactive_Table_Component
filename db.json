@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "name": "John Doe",
+      "description": "Senior Software Engineer with 8 years of experience in React and Node.js",
+      "amount": 95000,
+      "tooltip": "Team lead, joined Jan 2018"
+    },
+    {
+      "id": "2",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "name": "Jane Smith",
+      "description": "UX Designer specializing in accessibility and user research",
+      "amount": 85000,
+      "tooltip": "Promoted last year"
+    },
+    {
+      "id": "3",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "name": "Robert Johnson",
+      "description": "Backend developer focused on microservices architecture",
+      "amount": 110000,
+      "tooltip": "Works remotely from Austin"
+    },
+    {
+      "id": "4",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "name": "Emily Davis",
+      "description": "Product manager with fintech background",
+      "amount": 120000,
+      "tooltip": "Owns the payments feature"
+    },
+    {
+      "id": "5",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "name": "Michael Brown",
+      "description": "DevOps engineer implementing CI/CD pipelines",
+      "amount": 105000,
+      "tooltip": "On call this week"
+    },
+    {
+      "id": "6",
+      "avatar": "https://i.pravatar.cc/150?img=6",
+      "name": "Sarah Wilson",
+      "description": "Frontend developer working on design systems",
+      "amount": 92000,
+      "tooltip": "Recently got married"
+    },
+    {
+      "id": "7",
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "name": "David Taylor",
+      "description": "Data scientist building ML models",
+      "amount": 115000,
+      "tooltip": "PhD in Computer Science"
+    },
+    {
+      "id": "8",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "name": "Jessica Anderson",
+      "description": "QA automation engineer",
+      "amount": 88000,
+      "tooltip": "Writes Cypress tests"
+    },
+    {
+      "id": "9",
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "name": "Thomas Martinez",
+      "description": "Technical writer documenting APIs",
+      "amount": 78000,
+      "tooltip": "Former journalist"
+    },
+    {
+      "id": "10",
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "name": "Lisa Robinson",
+      "description": "Recruiter specializing in tech roles",
+      "amount": 82000,
+      "tooltip": "Hired 15 engineers last quarter"
+    },
+    {
+      "id": "11",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "name": "William Clark",
+      "description": "Security engineer performing pentests",
+      "amount": 125000,
+      "tooltip": "Found critical vulnerability last month"
+    },
+    {
+      "id": "12",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "name": "Karen Rodriguez",
+      "description": "Mobile developer building React Native apps",
+      "amount": 98000,
+      "tooltip": "Works on iOS and Android"
+    },
+    {
+      "id": "13",
+      "avatar": "https://i.pravatar.cc/150?img=13",
+      "name": "James Lewis",
+      "description": "Database administrator optimizing queries",
+      "amount": 102000,
+      "tooltip": "Manages our PostgreSQL clusters"
+    },
+    {
+      "id": "14",
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "name": "Nancy Walker",
+      "description": "Scrum master facilitating agile ceremonies",
+      "amount": 90000,
+      "tooltip": "Certified SAFe practitioner"
+    },
+    {
+      "id": "15",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "name": "Charles Hall",
+      "description": "CTO setting technical direction",
+      "amount": 180000,
+      "tooltip": "Company founder"
+    },
+    {
+      "id": "16",
+      "avatar": "https://i.pravatar.cc/150?img=16",
+      "name": "Angela Young",
+      "description": "Customer support engineer",
+      "amount": 75000,
+      "tooltip": "Works directly with clients"
+    },
+    {
+      "id": "17",
+      "avatar": "https://i.pravatar.cc/150?img=17",
+      "name": "Kevin King",
+      "description": "Full-stack developer on the growth team",
+      "amount": 97000,
+      "tooltip": "Built the onboarding flow"
+    },
+    {
+      "id": "18",
+      "avatar": "https://i.pravatar.cc/150?img=18",
+      "name": "Betty Wright",
+      "description": "Data analyst creating dashboards",
+      "amount": 89000,
+      "tooltip": "Uses Tableau and Looker"
+    },
+    {
+      "id": "19",
+      "avatar": "https://i.pravatar.cc/150?img=19",
+      "name": "Steven Scott",
+      "description": "Engineering manager leading team of 8",
+      "amount": 130000,
+      "tooltip": "Previously at Google"
+    },
+    {
+      "id": "20",
+      "avatar": "https://i.pravatar.cc/150?img=20",
+      "name": "Donna Green",
+      "description": "Marketing technologist",
+      "amount": 85000,
+      "tooltip": "Manages our marketing automation"
+    },
+    {
+      "id": "21",
+      "avatar": "https://i.pravatar.cc/150?img=21",
+      "name": "Gary Adams",
+      "description": "Site reliability engineer",
+      "amount": 115000,
+      "tooltip": "On call rotation"
+    },
+    {
+      "id": "22",
+      "avatar": "https://i.pravatar.cc/150?img=22",
+      "name": "Dorothy Baker",
+      "description": "Content designer writing UI text",
+      "amount": 83000,
+      "tooltip": "Ensures consistent tone"
+    },
+    {
+      "id": "23",
+      "avatar": "https://i.pravatar.cc/150?img=23",
+      "name": "Eric Gonzalez",
+      "description": "Sales engineer demonstrating product",
+      "amount": 95000,
+      "tooltip": "Works with enterprise clients"
+    },
+    {
+      "id": "24",
+      "avatar": "https://i.pravatar.cc/150?img=24",
+      "name": "Ashley Nelson",
+      "description": "People ops coordinator",
+      "amount": 70000,
+      "tooltip": "Organizes team events"
+    },
+    {
+      "id": "25",
+      "avatar": "https://i.pravatar.cc/150?img=25",
+      "name": "Joshua Carter",
+      "description": "Frontend architect",
+      "amount": 140000,
+      "tooltip": "Defines our React standards"
+    },
+    {
+      "id": "26",
+      "avatar": "https://i.pravatar.cc/150?img=26",
+      "name": "Kimberly Mitchell",
+      "description": "UX researcher conducting studies",
+      "amount": 92000,
+      "tooltip": "PhD in Psychology"
+    },
+    {
+      "id": "27",
+      "avatar": "https://i.pravatar.cc/150?img=27",
+      "name": "Matthew Perez",
+      "description": "Backend architect",
+      "amount": 145000,
+      "tooltip": "Designed our API gateway"
+    },
+    {
+      "id": "28",
+      "avatar": "https://i.pravatar.cc/150?img=28",
+      "name": "Amanda Roberts",
+      "description": "Data engineer building pipelines",
+      "amount": 108000,
+      "tooltip": "Works with Airflow"
+    },
+    {
+      "id": "29",
+      "avatar": "https://i.pravatar.cc/150?img=29",
+      "name": "Daniel Turner",
+      "description": "Product designer",
+      "amount": 95000,
+      "tooltip": "Created our design system"
+    },
+    {
+      "id": "30",
+      "avatar": "https://i.pravatar.cc/150?img=30",
+      "name": "Michelle Phillips",
+      "description": "Technical program manager",
+      "amount": 110000,
+      "tooltip": "Coordinates cross-team initiatives"
+    }
+  ]
+}
