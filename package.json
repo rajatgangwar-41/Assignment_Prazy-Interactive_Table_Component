@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "server": "npx json-server --watch db.json --port 3000",
+    "server": "npx json-server --watch db.json --port 3000 $PORT --middlewares ./cors.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
