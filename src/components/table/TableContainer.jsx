@@ -17,7 +17,7 @@ import { TableBodyComponent } from "./TableBody"
 import { PaginationControls } from "./PaginationControls"
 import { Toolbar } from "./Toolbar"
 
-const API_BASE_URL = "https://assignment-prazy-interactive-table.onrender.com/"
+const API_BASE_URL = "https://rajatgangwar-assignment-interactive.onrender.com/"
 
 export const TableContainer = () => {
   const [data, setData] = useState([])
